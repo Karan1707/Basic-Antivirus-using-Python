@@ -10,6 +10,6 @@ This project is a basic antivirus scanner implemented in Python. It demonstrates
 
 **Technologies Used:**
 
-**Python:** for scripting and automation.
-**File I/O Operations:** for reading file contents and directory traversal.
-**Byte Pattern Matching:** for detecting malware signatures.
+**Python:** for scripting and automation. 
+**File I/O Operations:** for reading file contents and directory traversal. 
+**Byte Pattern Matching:** for detecting malware signatures. 
